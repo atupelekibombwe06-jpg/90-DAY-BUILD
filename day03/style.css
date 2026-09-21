@@ -1,13 +1,4 @@
-.flex-container {
-    display: flex;
-    gap: 30px;
-}
-    .flex-container {
-        display: flex;
-        gap: 30px;
-        justify-content: space-between;
-        align-items:flex-start;
-    }
+
     
     .flex-container{
          display: flex;
@@ -16,8 +7,6 @@
         align-items:flex-start;
         flex-wrap: wrap;
     }
-
-    flex-direction: column;
      
     .profile-header {
 display: flex;
